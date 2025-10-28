@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "slides.html#composition",
+    "href": "slides.html#composition",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Composition",
+    "text": "Composition\n\n\\(f(x)=\\text{e}^x\\) et \\(g(x)=42\\ln(x)\\)"
+  },
+  {
+    "objectID": "slides.html#réciproque-dune-fonction",
+    "href": "slides.html#réciproque-dune-fonction",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Réciproque d’une fonction",
+    "text": "Réciproque d’une fonction\n\n\\(f(x)=x^2-6x+9\\)"
+  },
+  {
+    "objectID": "slides.html#b-page-9",
+    "href": "slides.html#b-page-9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.B) (page 9)",
+    "text": "2.3.B) (page 9)\n\n\\(\\ln(13,5)\\)"
+  },
+  {
+    "objectID": "slides.html#c-page-9",
+    "href": "slides.html#c-page-9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.C) (page 9)",
+    "text": "2.3.C) (page 9)\n\n\\(\\log(1,25)\\)"
+  },
+  {
+    "objectID": "slides.html#d-page-9",
+    "href": "slides.html#d-page-9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.D) (page 9)",
+    "text": "2.3.D) (page 9)\n\n\\(\\ln(x^2-2)-\\ln(x^2-7x+12)=0\\)"
+  },
+  {
+    "objectID": "slides.html#d-page-9-1",
+    "href": "slides.html#d-page-9-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.D) (page 9)",
+    "text": "2.3.D) (page 9)"
+  },
+  {
+    "objectID": "slides.html#e-page-9",
+    "href": "slides.html#e-page-9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.E) (page 9)",
+    "text": "2.3.E) (page 9)\n\n\\(e^{2x}-e^{x}-2=0\\)"
+  },
+  {
+    "objectID": "slides.html#f",
+    "href": "slides.html#f",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.F)",
+    "text": "2.3.F)\nÉnoncé: Un capital est placé au taux annuel de 10% à intérêts composés. Après combien de temps le capital aura-t-il doublé ?"
+  },
+  {
+    "objectID": "slides.html#g",
+    "href": "slides.html#g",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.G)",
+    "text": "2.3.G)\nÉnoncé: Bactéries: doublement toutes les six minutes. \\(N(t)\\) est le nombre de bactéries à l’instant \\(t\\) (en minutes).\n\nDéterminez l’expression analytique de la fonction \\(N(t)\\), \\(N_0=N(0)\\)."
+  },
+  {
+    "objectID": "slides.html#g-1",
+    "href": "slides.html#g-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.G)",
+    "text": "2.3.G)\n\nPosons \\(P (t ) = N_0 \\text{e}^{kt}\\) telle que \\(P (t ) = N (t )\\). Déterminez la valeur (et l’unité physique) de \\(k\\)."
+  },
+  {
+    "objectID": "slides.html#g-2",
+    "href": "slides.html#g-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.G)",
+    "text": "2.3.G)\n\nIl y a actuellement 1 048 576 bactéries dans l’échantillon. Quelle était le nombre de bactéries il y une heure et demie ?"
+  },
+  {
+    "objectID": "slides.html#h",
+    "href": "slides.html#h",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.H)",
+    "text": "2.3.H)\nÉnoncé: \\(L(t)=M(1-C\\text{e}^{-kt})\\). \\(M=200\\) et \\(C=0,956\\), \\(t\\) en heures.\n\nUnité physique de \\(M\\) et \\(k?\\)"
+  },
+  {
+    "objectID": "slides.html#h-1",
+    "href": "slides.html#h-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.H)",
+    "text": "2.3.H)\nÉnoncé: \\(L(t)=M(1-C\\text{e}^{-kt})\\). \\(M=200\\) et \\(C=0,956\\), \\(t\\) en heures.\n\nUn flétan mesure 66,6cm à deux ans. Déterminer \\(k\\)."
+  },
+  {
+    "objectID": "slides.html#h-2",
+    "href": "slides.html#h-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.H)",
+    "text": "2.3.H)\nÉnoncé: \\(L(t)=M(1-C\\text{e}^{-kt})\\). \\(M=200\\) et \\(C=0,956\\), \\(t\\) en heures.\n\n\\(k=0,18\\). Si on pèche un flétan de 1m de long, quel est sont âge?"
+  },
+  {
+    "objectID": "slides.html#i",
+    "href": "slides.html#i",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.I)",
+    "text": "2.3.I)\nÉnoncé: \\(T(t)=(T(0)-A)e^{-kt}+A\\). \\(t\\) en heures.\nDonnées: \\(T(9)=30\\) et \\(T(10)=26\\) et \\(A=20\\). Question: trouver l’heure de la mort de la victime: chercher \\(t\\) tel que \\(T(t)=37\\)."
+  },
+  {
+    "objectID": "slides.html#i-1",
+    "href": "slides.html#i-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.I)",
+    "text": "2.3.I)"
+  },
+  {
+    "objectID": "slides.html#j",
+    "href": "slides.html#j",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.J)",
+    "text": "2.3.J)\nÉnoncé: \\(\\text{pH}=-\\log([\\text{H}_3\\text{O}^+])\\), si concentration faible en ions. \\([\\text{H}_3\\text{O}^+]\\) est en mol/L.\n\nDéterminer \\([\\text{H}_3\\text{O}^+]\\) et nombre de moles d’ions dans 50mL d’eau distillée."
+  },
+  {
+    "objectID": "slides.html#j-1",
+    "href": "slides.html#j-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.J)",
+    "text": "2.3.J)\nÉnoncé: \\(\\text{pH}=-\\log([\\text{H}_3\\text{O}^+])\\), si concentration faible en ions. \\([\\text{H}_3\\text{O}^+]\\) est en mol/L.\n\nExprimez \\([\\text{H}_3\\text{O}^+]\\) en fonction du pH."
+  },
+  {
+    "objectID": "slides.html#j-2",
+    "href": "slides.html#j-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.J)",
+    "text": "2.3.J)\nÉnoncé: \\(\\text{pH}=-\\log([\\text{H}_3\\text{O}^+])\\), si concentration faible en ions. \\([\\text{H}_3\\text{O}^+]\\) est en mol/L.\n\nSi le pH augmente de deux unités, comment augmente \\([\\text{H}_3\\text{O}^+]\\)?"
+  },
+  {
+    "objectID": "slides.html#k",
+    "href": "slides.html#k",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.K)",
+    "text": "2.3.K)\nÉnoncé: La distance entre la Terre et la Lune est en moyenne de 384 400km. J’ai devant moi une feuille de papier d’une épaisseur d’un millimètre. Si je peux la plier en deux autant de fois que je le souhaite, de sorte que l’une des moitiés de la feuille recouvre exactement l’autre moitié de la feuille, combien de pliages successifs minimum dois-je faire afin que l’épaisseur de la feuille pliée dépasse la distance séparant notre planète de son satellite naturel ?"
+  },
+  {
+    "objectID": "slides.html#k-1",
+    "href": "slides.html#k-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.K)",
+    "text": "2.3.K)"
+  },
+  {
+    "objectID": "slides.html#k-2",
+    "href": "slides.html#k-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.K)",
+    "text": "2.3.K)"
+  },
+  {
+    "objectID": "slides.html#animation",
+    "href": "slides.html#animation",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Animation",
+    "text": "Animation\nAppli Geogebra"
+  },
+  {
+    "objectID": "slides.html#synthèse",
+    "href": "slides.html#synthèse",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Synthèse",
+    "text": "Synthèse\n\nTransformations horizontales (on transforme \\(x\\)):\n\nTranslations horizontale: \\(f(x)\\) devient \\(g(x)=f(x+a)\\) “Le graphique de \\(g\\) est obtenu à partir du graphique de \\(f\\) par une translation horizontale de vecteur \\((-a,0)\\)”\nDilatation/compression: \\(a&gt;0\\) et \\(f(x)\\) devient \\(g(x)=f(ax)\\)\n\nSi \\(a&gt;1\\): compression horizontale de facteur \\(a\\)\nSi \\(0&lt;a\\le 1\\): dilatiation horizontale de facteur \\(1/a\\)\n\nSymétrie d’axe \\(y\\): \\(f(x)\\) devient \\(g(x)=f(-x)\\): “Le graphique de \\(g\\) est obtenu à partir du graphique de \\(f\\) par une symétrie d’axe \\(y\\).”"
+  },
+  {
+    "objectID": "slides.html#priorité-des-transformations",
+    "href": "slides.html#priorité-des-transformations",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Priorité des transformations",
+    "text": "Priorité des transformations\nLorsqu’on enchaîne plusieurs transformations, il y a une priorité:\n\nD’abord les symétries et les dilatations et les compressions.\nEnsuite les translations.\n\nNote: ces priorités viennent des priorités des opérations (multiplications et divisions avant additions et soustractions)"
+  },
+  {
+    "objectID": "slides.html#attention-à-un-piège-tuyau-pour-lexamen",
+    "href": "slides.html#attention-à-un-piège-tuyau-pour-lexamen",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Attention à un piège (tuyau pour l’examen):",
+    "text": "Attention à un piège (tuyau pour l’examen):\nIl y a un enchaînement de transformation délicat: celui de la forme \\(g(x)=f(ax+b)\\). Naîvement, on pourrait penser que \\(g\\) est obtenu à partir de \\(f\\) en faisant:\n\nUne dilatation ou compression horizontale de facteur \\(a\\) ou \\(1/a\\)\nUne translation horizontale de vecteur \\((-b,0)\\)\n\nVoyons dans un cas concret ce que cela donne pour \\(a=\\dfrac{1}{2}\\) et \\(b=2\\):\nAppli Geogebra"
+  },
+  {
+    "objectID": "slides.html#attention-à-un-piège-tuyau-pour-lexamen-1",
+    "href": "slides.html#attention-à-un-piège-tuyau-pour-lexamen-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Attention à un piège (tuyau pour l’examen):",
+    "text": "Attention à un piège (tuyau pour l’examen):\nIl faut donc réécrire \\(g(x)\\):\n\\[\ng(x)=f(ax+b)=f(a(x+b/a))\n\\]\nDonc \\(g\\) est obtenu à partir de \\(f\\) par:\n\nUne dilatation/compression horizontale de facteur \\(a\\) ou \\(1/a\\)\nUne translation horizontale de vecteur \\((-b/a,0)\\)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8",
+    "href": "slides.html#exercice-2.2.a-page-8",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8-1",
+    "href": "slides.html#exercice-2.2.a-page-8-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8-2",
+    "href": "slides.html#exercice-2.2.a-page-8-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8-3",
+    "href": "slides.html#exercice-2.2.a-page-8-3",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8-4",
+    "href": "slides.html#exercice-2.2.a-page-8-4",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8-5",
+    "href": "slides.html#exercice-2.2.a-page-8-5",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  }
+]
