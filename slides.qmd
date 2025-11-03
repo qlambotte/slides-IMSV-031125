@@ -123,10 +123,10 @@ aura-t-il doublé ?
 
 ## 2.3.I)
 
-**Énoncé:** $T(t)=(T(0)-A)e^{-kt}+A$. $t$ en heures. 
+**Énoncé:** $T(t)=(T_0-A)e^{-k(t-t_0)}+A$. $t$ en heures. 
 
-Données: $T(9)=30$ et $T(10)=26$ et $A=20$. 
-Question: trouver l'heure de la mort de la victime: chercher $t$ tel que $T(t)=37$.
+Données: $T(9)=30$ et $T(10)=26$ et $A=20$, $T_0=37$. 
+Question: trouver l'heure de la mort de la victime.
 
 
 ## 2.3.I)
